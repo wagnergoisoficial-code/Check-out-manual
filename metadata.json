@@ -1,0 +1,6 @@
+{
+  "name": "Checkout - Plataforma Método 5P",
+  "description": "Checkout de alta conversão da Plataforma Método 5P (workbook interativo de preparação familiar) com bônus do Manual Completo de Sobrevivência Apocalíptica em PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
